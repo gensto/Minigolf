@@ -4,5 +4,5 @@
  Still need to add more levels
 
 # DEMO
-![AasLSn4](https://user-images.githubusercontent.com/47303604/61752010-42ce2e00-ad78-11e9-96ac-da3cb1aee86a.gif)
+![minigolfdemo](https://user-images.githubusercontent.com/47303604/61752130-9ccef380-ad78-11e9-8f9a-1b7a5a4f2659.gif)
 
